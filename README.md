@@ -51,8 +51,8 @@ I built this project to:
 
 ## How to Run
 
-1. Install required libraries:
-pip install requests beautifulsoup4 pandas
+1. Install dependencies:
+pip install -r requirements.txt
 
 2. Launch Jupyter Notebook:
 jupyter notebook
